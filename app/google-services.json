@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770778842280",
+    "firebase_url": "https://hackgasmx.firebaseio.com",
+    "project_id": "hackgasmx",
+    "storage_bucket": "hackgasmx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770778842280:android:5bff38ac1e0e4506",
+        "android_client_info": {
+          "package_name": "com.ajolote.hack.mygas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770778842280-129gui02jr1a70c1vvepvhf91ur326uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajolote.hack.mygas",
+            "certificate_hash": "db02293d99b1524e0b9357a74dff0c37f6d4adff"
+          }
+        },
+        {
+          "client_id": "770778842280-onjq1gtji8mum1pkfvktq96264gf5qt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlRNFhp0EgwRSFibGL3ccpnL8XIUOFkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770778842280-onjq1gtji8mum1pkfvktq96264gf5qt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
